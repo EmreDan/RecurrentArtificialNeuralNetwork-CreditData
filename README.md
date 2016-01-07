@@ -10,3 +10,5 @@ For weight updates error back-propagation is used.
 As the non-linear output activation function Sigmoid function is used. 
 
 Stratified cross-validation with 10 folds is used.
+
+The orijinal sample data is in credit-data.txt file. I've seperated good and bad classes in two text files. 
